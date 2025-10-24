@@ -6,3 +6,4 @@
 - [**Банановый хлеб**](bananovyy-hleb.md)
 - [**Курица «Пикассо»**](kurica-pikasso.md)
 - [**Азу по-татарски**](azu-po-tatarski.md)
+- [**Пирог «Зебра»**](zebra.md)
